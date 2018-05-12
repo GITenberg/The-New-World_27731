@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32329
     wikipedia: http://en.wikipedia.org/wiki/Witter_Bynner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27731#The-New-World
 gutenberg_issued: '2009-01-07'
 gutenberg_type: Text
 identifiers:
